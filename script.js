@@ -8,7 +8,7 @@ function darkMode() {
   const body = document.querySelector('body')
   const header = document.querySelector('.header')
   const text = document.querySelectorAll('div p, h2')
-  body.classList.toggle('dark')
+  body.classList.toggle('dark-body')
   header.classList.toggle('dark-title')
   text.forEach((contex) => contex.classList.toggle('content')) 
 
