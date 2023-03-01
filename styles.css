@@ -79,15 +79,15 @@ você terá que modificar os seletores a fim de poder resolver o exercício. */
   color: rgb(170, 170, 170);
   border-color: black;
 }
-// Modificações nos items
+/* // Modificações nos items */
 .dark-item{
   background-color: rgb(19, 19, 19);
   border-color: black;
 }
 
-// Modificações nos textos dos itens e cabeçalhos dos itens
-.tex{
+/* // Modificações nos textos dos itens e cabeçalhos dos itens */
+.content{
   color: rgb(230, 230, 230);
 }
 
-// Modificações no titulo 'A família dos felinos'
+/* // Modificações no titulo 'A família dos felinos' */
